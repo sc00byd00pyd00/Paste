@@ -57,4 +57,4 @@ This Python script is a **Pastebin Content Fetcher** that securely retrieves con
 To fetch content from a Pastebin link (`https://pastebin.com/raw/abc123`) with the password `mypassword` and save it to `output.txt`, run:
 
 ```bash
-python script.py https://pastebin.com/1gHRZT8H mypassword output.txt
+python script.py https://pastebin.com/raw/abc123 mypassword output.txt
